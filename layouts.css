@@ -1,9 +1,16 @@
 body{
-	background-color: #e6e6e6
+	background-color: #afe8e5;
 	font
 }
 
 h1{
-	
+	justify-content:center;
+	font-size: 68px;
+}
+
+
+h3{
+	justify-content: center;
+	font-size:38px;
 }
 
